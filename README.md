@@ -1,5 +1,5 @@
 # Praktikum 1
-# Pertemuan4_Latihan1
+Pertemuan4_Latihan1
 
 
 • Mendeklarasikan class Person, dengan atribut Nama, 
